@@ -4,6 +4,10 @@ Problem Solving at Baekjoon
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=zannisb04)](https://solved.ac/zannisb04/)
 
 ---
+## 풀이 노트
+- [알고리즘 풀이 노트 (Notion)](https://app.notion.com/p/1b9a5b94010a80c5af8de54a4d534205?v=1b9a5b94010a80ffba62000ce48e73e7&source=copy_link)
+
+---
 ## Problems by Tier
 ### [- Bronze🥉 -](https://github.com/zannisb/Baekjoon/tree/main/Bronze)
 [Bronze 5](https://github.com/zannisb/Baekjoon/tree/main/Bronze/Bronze%205)&nbsp;
